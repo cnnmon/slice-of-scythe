@@ -9,7 +9,7 @@ here are all of my custom scripts for the game.
 (as a note, the game had to be developed within 72 hrs given for jam entries, so some scripts aren't the most clean or efficient!)
 
 **Tools:**
-* unity C#
+* unity c#
 * tmpro
 * 2dxfx
 * inky
